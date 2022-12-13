@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  11 DEC 2022 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  13 DEC 2022 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Harold/Dropbox/Kredan Project/dokumentasi-mateng/hiyang/hiyang.tex"
-(c:/Users/Harold/Dropbox/Kredan Project/dokumentasi-mateng/hiyang/hiyang.tex
+**c:/Users/Harold/Documents/ciptabuanahiyang/hiyang.tex
+(c:/Users/Harold/Documents/ciptabuanahiyang/hiyang.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02> (c:/texlive/2022/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
@@ -371,27 +371,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Bab 1.
-
-Overfull \hbox (3.32397pt too wide) in paragraph at lines 57--58
-\T1/qtm/m/n/12 Hiyang me-ru-pak-an re-ka-bu-a-na ma-sya-ra-kat yang ber-a-da di du-nia fik-si ber-na-ma Kred-
- []
-
 [1
 
-] (./hiyang.aux) ) 
+] [2] (./hiyang.aux) ) 
 Here is how much of TeX's memory you used:
- 14557 strings out of 474971
+ 14561 strings out of 474971
  289877 string characters out of 5780121
- 620486 words of memory out of 5000000
- 35823 multiletter control sequences out of 15000+600000
- 490424 words of font info for 39 fonts, out of 8000000 for 9000
+ 622486 words of memory out of 5000000
+ 35827 multiletter control sequences out of 15000+600000
+ 493271 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,6n,104p,785b,186s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,6n,104p,743b,186s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on hiyang.pdf (2 pages, 54274 bytes).
+Output written on hiyang.pdf (3 pages, 56546 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
