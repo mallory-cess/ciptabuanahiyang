@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1670922034 "c:/Users/Harold/Documents/ciptabuanahiyang/hiyang.tex" "hiyang.pdf" "hiyang" 1670922036
-  "c:/Users/Harold/Documents/ciptabuanahiyang/hiyang.tex" 1670922031 3792 9849b257b8678cdf911ac30366a401a3 ""
+["pdflatex"] 1671103379 "c:/Users/Harold/Documents/ciptabuanahiyang/hiyang.tex" "hiyang.pdf" "hiyang" 1671103381
+  "c:/Users/Harold/Documents/ciptabuanahiyang/hiyang.tex" 1671103378 5428 caaf5c87415f768abb33740c609f776e ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1667812592 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1667808743 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1667807597 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -109,8 +109,8 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1667813674 4648419 cd736d89bc726120ec8d74e8e9beb636 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1667813813 3063417 2121e9099d74ea65aca6f945dd5fd97b ""
   "c:/texlive/2022/texmf.cnf" 1667813649 713 e69b156964470283e0530f5060668171 ""
-  "hiyang.aux" 1670922036 599 cd48498823b13e3a15c509a799e2dc89 "pdflatex"
-  "hiyang.tex" 1670922031 3792 9849b257b8678cdf911ac30366a401a3 ""
+  "hiyang.aux" 1671103381 715 6988a870c4caab2a7be34e4bd7ecf495 "pdflatex"
+  "hiyang.tex" 1671103378 5428 caaf5c87415f768abb33740c609f776e ""
   (generated)
   "hiyang.aux"
   "hiyang.log"

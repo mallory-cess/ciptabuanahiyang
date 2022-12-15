@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  13 DEC 2022 16:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  15 DEC 2022 18:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -373,20 +373,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Bab 1.
 [1
 
-] [2] (./hiyang.aux) ) 
+] [2] [3] (./hiyang.aux) ) 
 Here is how much of TeX's memory you used:
  14561 strings out of 474971
  289877 string characters out of 5780121
- 622486 words of memory out of 5000000
+ 623486 words of memory out of 5000000
  35827 multiletter control sequences out of 15000+600000
  493271 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,6n,104p,743b,186s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on hiyang.pdf (3 pages, 56546 bytes).
+Output written on hiyang.pdf (4 pages, 60145 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
